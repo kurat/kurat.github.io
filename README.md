@@ -1,2 +1,2 @@
 # kurat.github.io
-くらっとウェブサイト
+GitHub Pages for kurat.jp
